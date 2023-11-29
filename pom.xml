@@ -78,13 +78,13 @@
     <dependency>
       <groupId>io.quarkiverse.wiremock</groupId>
       <artifactId>quarkus-wiremock</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1-SNAPSHOT</version>
     </dependency>
     <!-- Test client for WireMock -->
     <dependency>
       <groupId>io.quarkiverse.wiremock</groupId>
       <artifactId>quarkus-wiremock-test</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1-SNAPSHOT</version>
       <scope>test</scope>
     </dependency>
     <dependency>
