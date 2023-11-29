@@ -26,6 +26,6 @@ public interface RestClientService {
 
     @GET
     @Path("/user/{id}.json")
-    Uni<String> getUser(@PathParam("id") String id);
+    Uni<String> getUser(@PathParam("id") String id); 
 
 }
